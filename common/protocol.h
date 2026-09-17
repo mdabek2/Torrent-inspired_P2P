@@ -1,0 +1,14 @@
+#pragma once
+
+#define P2P_DATA_BUFFER_SIZE    1024
+#define P2P_MAX_TORRENT_SIZE    (1024U * 1024U)
+#define P2P_IPV6_TEXT_MAX       39
+#define P2P_ENDPOINT_MAX        (P2P_IPV6_TEXT_MAX + 8)
+
+#define TRACKER_CMD_SHARE_FILE      '1'
+#define TRACKER_CMD_DOWNLOAD_FILE   '2'
+#define TRACKER_CMD_ADD_SEEDER      '3'
+#define TRACKER_CMD_REMOVE_SEEDER   '4'
+
+#define PEER_STATUS_FILE_FOUND      '1'
+#define PEER_STATUS_FILE_NOT_FOUND  '0'

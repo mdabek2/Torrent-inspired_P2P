@@ -1,0 +1,3 @@
+/home/md/Pulpit/p2p_project/tracker/build/CMakeFiles/tracker.dir
+/home/md/Pulpit/p2p_project/tracker/build/CMakeFiles/edit_cache.dir
+/home/md/Pulpit/p2p_project/tracker/build/CMakeFiles/rebuild_cache.dir
