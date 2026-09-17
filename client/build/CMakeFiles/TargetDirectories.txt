@@ -1,3 +1,0 @@
-/home/md/Pulpit/p2p_project/client/build/CMakeFiles/client.dir
-/home/md/Pulpit/p2p_project/client/build/CMakeFiles/edit_cache.dir
-/home/md/Pulpit/p2p_project/client/build/CMakeFiles/rebuild_cache.dir
